@@ -1,0 +1,199 @@
+body{
+    background-color: none;
+}
+
+.img1{
+    height: 50px;
+    width: 50px;
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 50px;
+    font-style: inherit;
+    color: #74d132;
+}
+.off{
+    text-align: center;
+    
+}
+.prize1{
+    height: 10px;
+    width: 200px;
+    background-color:none;
+    display: flex;
+    float: left;
+    padding-left: 400px;
+    /* font-size: 20px;
+    font-weight: bolder; */
+}
+.prize2{
+    height: 10px;
+    width: 200px;
+    background-color:none;
+    display: flex;
+    padding-left: 1030px;
+    padding-top: 50px;
+}
+.img2{
+    height: 200px;
+    width: 350px;
+    padding-left: 200px;
+
+}
+.img3{
+    height: 150px;
+    width: 200px;
+   padding-top: 70px;
+   padding-left: 200px;
+
+   
+}
+.im1{
+    display: flex;
+    float: left;
+}
+.im2{
+    display: flex;
+    float: left;
+}
+.prize3{
+    height: 500px;
+    width: 1000px;
+    background-color:none;
+    /* display: flex;
+    float: left; */
+}
+.img4{
+    height: 150px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 450px;
+    /* padding-right: 200px; */
+}
+.other{
+    padding-top: 100px;
+    padding-left: 350px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.img5{
+    height: 150px;
+    width: 150px;
+    padding-left: 150px;
+    
+}
+.powerbank{
+    display: flex;
+    float: left;
+}
+.headphone{
+  padding-left: 300px;
+  padding-top: 10px;
+}
+.img6{
+    height: 100px;
+    width: 100px;
+    padding-left: 600px;
+}
+.smartwatch{
+    display: flex;
+    float: left;
+}
+.img7{
+    height: 400px;
+    width: 300px;
+
+}
+.img8{
+    height: 400px;
+    width: 400px;
+}
+.img9{
+    height: 400px;
+    width: 400px;
+}
+.Dmain{
+    height: 400px;
+    width: 1350px;
+    background-color:#1a1917;
+   
+
+}
+.D2{
+    display: flex;
+    float: left;
+    background-color:none;
+    padding-left: 50px;
+   
+}
+.D3{
+    display: flex;
+    float: left;
+    background-color:none;
+    padding-left: 10px;
+
+}
+.D4{
+    display: flex;
+    float: left;
+    background-color: none;
+    padding-left: 50px;
+}
+.h{
+    height: 5px;
+   
+}
+.img10{
+    height: 500px;
+    width: 1350px;
+}
+.mod{
+    text-align: center;
+    background-color: #74d132;
+}
+.det{
+    text-align: center;
+}
+.butt{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-weight: bolder;
+    font-size: 50px;
+    height: 100px;
+    width: 400px;
+    background: yellow;
+    color: #bd3e3e;
+    transition: 0.5s;
+}
+.butt:hover{
+    background-color: #511d99;
+
+}
+.par{
+    background-color: #bd3eb0;
+}
+.info{
+    display: flex;
+    float: left;
+    color: #e3121d;
+   background-color: #511d99;
+}
+.info1{
+    float: left;
+    padding-left: 50px;
+}
+.info2{
+    float: left;
+    padding-left: 200px;
+}
+.info3{
+    float: left;
+    padding-left: 400px;
+}
+hr{
+    width: 1350px;
+    height: 5px;
+}
